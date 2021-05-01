@@ -1,4 +1,4 @@
-# pay_app
+# digitalwallet
 
 A new Flutter application.
 
