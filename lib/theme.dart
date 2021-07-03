@@ -5,7 +5,7 @@ double defaultMargin = 24;
 
 // NOTE: COLORS
 
-Color greenColor = Color(0xff104E5B);
+Color greenColor = Color(0xff001241);
 Color whiteColor = Color(0xffFFFFFF);
 Color blackColor = Color(0xff000000);
 Color greyColor = Color(0xff616F80);
