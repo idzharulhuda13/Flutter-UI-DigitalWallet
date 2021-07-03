@@ -1,6 +1,6 @@
-# pay_app
+# digitalwallet
 
-A new Flutter application.
+A new Flutter application. (design from buildwithangga)
 
 ## Getting Started
 
